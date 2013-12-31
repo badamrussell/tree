@@ -1,4 +1,13 @@
 tree
 ====
 
-tree and treenode class that handles BFS and DFS
+My very own version of a Tree Node class used for BFS and DFS.
+
+
+
+##Implemented Features
+======================
+
+
+##Planned Features
+==================
