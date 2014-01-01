@@ -1,5 +1,5 @@
-tree
-====
+Search Tree
+===========
 Ruby
 
 A Custom Tree Node class used for Breadth-First-Search (BFS) and Depth-First-Search (DFS).
