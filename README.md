@@ -2,7 +2,7 @@ Search Tree
 ===========
 Ruby
 
-A Custom Tree Node class used for Breadth-First-Search (BFS) and Depth-First-Search (DFS).
+An exercise into building a Custom Tree Node class for Tree Search searches. Like a binary tree, but here you can specify the number of children for each node (so it doesn't have to be 2). This can be used for Breadth-First-Search (BFS) and Depth-First-Search (DFS).
 
 
 ###Implemented Features
